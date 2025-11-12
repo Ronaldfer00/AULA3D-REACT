@@ -27,6 +27,8 @@
 
 ## Descripción
 AULA3D-REACT es un proyecto didáctico que demuestra cómo integrar React con Three.js a través de `@react-three/fiber` y utilidades de `@react-three/drei`. El objetivo es cargar y visualizar un aula en 3D (puestos de cómputo, mobiliario, pizarra, etc.), ofrecer controles por ratón y permitir el control por sensores (giroscopio/accelerómetro) del teléfono para explorar la escena.
+<img width="1864" height="900" alt="Captura de pantalla 2025-11-11 004341" src="https://github.com/user-attachments/assets/de91adf4-0942-4e09-be32-f0e3fc85d9c7" />
+
 
 ---
 
