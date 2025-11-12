@@ -256,6 +256,6 @@ No se ha incluido un archivo `LICENSE` en el repositorio. Si deseas una licencia
 
 ## Contacto
 Autor: Ronaldfer00 (GitHub).  
-Si quieres que suba este README al repositorio y/o que añada scripts (por ejemplo `concurrently`) o un `docker-compose.yml` para levantar servicios, puedo prepararlos y guiarte en el proceso de commit/push.
+
 
 ---
